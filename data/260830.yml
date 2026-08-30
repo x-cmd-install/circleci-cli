@@ -1,0 +1,58 @@
+about:
+  description: Use CircleCI from the command line
+  license: MIT
+  homepage: https://cli.circleci.com
+  head: 3bc2976
+  archived: false
+  latestVersion: v1.0.49012
+  collectedAt: 2026-08-30T05:36:45Z
+timeline:
+  created: 2018-06-19
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 454
+  watcher: 51
+  fork: 255
+  release: 854
+  contributor: 40
+  pullRequest: 212
+  issue: 359
+language:
+  Go: 3441159
+  Shell: 10348
+  HTML: 3612
+totalLine: 3455119
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 89
+    mergedPR: 91
+    openPR: 9
+    closedIssue: 1
+    openIssue: 3
+    commit: 105
+  last90d:
+    since: 2026-06-01
+    release: 100
+    mergedPR: 362
+    openPR: 11
+    closedIssue: 4
+    openIssue: 4
+    commit: 455
+  last180d:
+    since: 2026-03-03
+    release: 100
+    mergedPR: 498
+    openPR: 11
+    closedIssue: 7
+    openIssue: 5
+    commit: 663
+  last360d:
+    since: 2025-09-04
+    release: 100
+    mergedPR: 514
+    openPR: 11
+    closedIssue: 11
+    openIssue: 6
+    commit: 663
