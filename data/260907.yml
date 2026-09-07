@@ -5,7 +5,7 @@ about:
   head: 5f1ba58
   archived: false
   latestVersion: "v1.0.49592"
-  collectedAt: 2026-09-07T05:22:20Z
+  collectedAt: 2026-09-07T19:03:10Z
 timeline:
   created: 2018-06-19
   lastCommit: 2026-09-04
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 454
   watcher: 51
-  fork: 255
+  fork: 254
   release: 867
   contributor: 41
-  pullRequest: 1387
+  pullRequest: 1388
   issue: 359
 language:
   Go: 3465018
@@ -28,7 +28,7 @@ recent:
     since: 2026-08-08
     release: 59
     mergedPR: 64
-    openPR: 8
+    openPR: 9
     closedIssue: 0
     openIssue: 1
     commit: 38
@@ -36,7 +36,7 @@ recent:
     since: 2026-07-09
     release: 100
     mergedPR: 165
-    openPR: 8
+    openPR: 9
     closedIssue: 3
     openIssue: 4
     commit: 174
@@ -44,7 +44,7 @@ recent:
     since: 2026-06-09
     release: 100
     mergedPR: 334
-    openPR: 9
+    openPR: 10
     closedIssue: 4
     openIssue: 4
     commit: 379
@@ -52,7 +52,7 @@ recent:
     since: 2026-03-11
     release: 100
     mergedPR: 513
-    openPR: 9
+    openPR: 10
     closedIssue: 6
     openIssue: 5
     commit: 678
@@ -60,7 +60,7 @@ recent:
     since: 2025-09-12
     release: 100
     mergedPR: 529
-    openPR: 9
+    openPR: 10
     closedIssue: 11
     openIssue: 6
     commit: 678
@@ -68,20 +68,20 @@ recent:
     since: 2024-09-17
     release: 100
     mergedPR: 561
-    openPR: 9
+    openPR: 10
     closedIssue: 46
     openIssue: 8
     commit: 1182
 total:
   release: 867
   mergedPR: 1173
-  openPR: 9
+  openPR: 10
   closedIssue: 343
   openIssue: 16
   commit: 1183
 ---
 path: /home/runner/.x-repo/github.com/CircleCI-Public/circleci-cli
-collectedAt: 2026-09-07T05:22:24Z
+collectedAt: 2026-09-07T19:03:14Z
 loc:
   Go:
     code: 69067
@@ -244,7 +244,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:22:25+00:00
+  collectedAt: 2026-09-07T19:03:15+00:00
   platform:
     darwin/arm64:
       name:  circleci-cli_1.0.49592_darwin_arm64.tar.gz
