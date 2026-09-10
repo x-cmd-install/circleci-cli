@@ -1,0 +1,121 @@
+- repo: nix_stable_24_05
+  srcname: circleci-cli
+  visiblename: circleci-cli
+  version: 0.1.30549
+  origversion: null
+  status: outdated
+  summary: Command to enable you to reproduce the CircleCI environment locally and run jobs as if they were running on the hosted CirleCI application.
+  maintainers:
+    - nix@hilhorst.be
+  licenses:
+    - MIT
+- repo: aur
+  srcname: circleci-cli-bin
+  binname: circleci-cli-bin
+  visiblename: circleci-cli-bin
+  version: 1.0.49959
+  origversion: 1.0.49959-1
+  status: outdated
+  summary: CircleCI's new command-line application.
+  maintainers:
+    - igemnace@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: circleci-cli
+  visiblename: CircleCI CLI
+  version: 1.0.49592
+  origversion: null
+  status: outdated
+  summary: CircleCI command line tool
+- repo: homebrew
+  srcname: circleci
+  visiblename: circleci
+  version: 1.0.49978
+  origversion: null
+  status: newest
+  summary: Official command-line tool for CircleCI
+- repo: homebrew
+  srcname: circleci
+  visiblename: circleci
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Official command-line tool for CircleCI
+- repo: nix_stable_24_11
+  srcname: circleci-cli
+  visiblename: circleci-cli
+  version: 0.1.30995
+  origversion: null
+  status: outdated
+  summary: Command to enable you to reproduce the CircleCI environment locally and run jobs as if they were running on the hosted CirleCI application.
+  maintainers:
+    - nix@hilhorst.be
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: circleci-cli
+  visiblename: circleci-cli
+  version: 0.1.31632
+  origversion: null
+  status: outdated
+  summary: Command to enable you to reproduce the CircleCI environment locally and run jobs as if they were running on the hosted CirleCI application.
+  maintainers:
+    - nix@hilhorst.be
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: circleci-cli
+  visiblename: circleci-cli
+  version: 0.1.33721
+  origversion: null
+  status: outdated
+  summary: Command to enable you to reproduce the CircleCI environment locally and run jobs as if they were running on the hosted CirleCI application.
+  maintainers:
+    - nix@hilhorst.be
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: circleci-cli
+  visiblename: circleci-cli
+  version: 0.1.36202
+  origversion: null
+  status: outdated
+  summary: Command to enable you to reproduce the CircleCI environment locally and run jobs as if they were running on the hosted CirleCI application.
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: circleci-cli
+  visiblename: circleci-cli
+  version: 1.0.48571
+  origversion: null
+  status: outdated
+  summary: Command to enable you to reproduce the CircleCI environment locally and run jobs as if they were running on the hosted CircleCI application.
+  maintainers:
+    - stig@circleci.com
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: circleci-cli
+  visiblename: circleci-cli
+  version: 1.0.49978
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: circleci-cli
+  binname: circleci-cli
+  visiblename: circleci-cli
+  version: 1.0.47876
+  origversion: 1.0.47876_1
+  status: outdated
+  summary: Use CircleCI from the command line
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - MIT

@@ -2,12 +2,12 @@ about:
   description: "Use CircleCI from the command line"
   license: MIT
   homepage: https://cli.circleci.com
-  head: e1fb0e1
+  head: 673790b
   archived: false
-  latestVersion: "v1.0.49978"
-  latestRelease: "v1.0.49978"
+  latestVersion: "v1.0.50006"
+  latestRelease: "v1.0.50006"
   latestPrerelease: "v1.0.46913-pre"
-  collectedAt: 2026-09-10T17:34:29Z
+  collectedAt: 2026-09-10T21:38:47Z
 timeline:
   created: 2018-06-19
   lastCommit: 2026-09-10
@@ -15,82 +15,82 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-08-05
 popularity:
-  star: 457
+  star: 458
   watcher: 51
   fork: 255
-  release: 875
+  release: 876
   contributor: 42
-  pullRequest: 1400
+  pullRequest: 1401
   issue: 359
 language:
-  Go: 3586430
+  Go: 3591940
   Shell: 10348
   HTML: 3612
-totalBytes: 3600390
+totalBytes: 3605900
 recent:
   last30d:
     since: 2026-08-11
-    release: 63
-    mergedPR: 55
+    release: 64
+    mergedPR: 56
     openPR: 12
     closedIssue: 0
     openIssue: 1
-    commit: 47
+    commit: 48
   last60d:
     since: 2026-07-12
     release: 100
-    mergedPR: 163
+    mergedPR: 164
     openPR: 12
     closedIssue: 3
     openIssue: 4
-    commit: 183
+    commit: 184
   last90d:
     since: 2026-06-12
     release: 100
-    mergedPR: 314
+    mergedPR: 315
     openPR: 13
     closedIssue: 4
     openIssue: 4
-    commit: 388
+    commit: 389
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 521
+    mergedPR: 522
     openPR: 13
     closedIssue: 6
     openIssue: 5
-    commit: 687
+    commit: 688
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 537
+    mergedPR: 538
     openPR: 13
     closedIssue: 11
     openIssue: 6
-    commit: 687
+    commit: 688
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 569
+    mergedPR: 570
     openPR: 13
     closedIssue: 46
     openIssue: 8
-    commit: 1199
+    commit: 1201
 total:
-  release: 875
-  mergedPR: 1181
+  release: 876
+  mergedPR: 1182
   openPR: 13
   closedIssue: 343
   openIssue: 16
-  commit: 1200
+  commit: 1202
 ---
 path: /home/runner/.x-repo/github.com/CircleCI-Public/circleci-cli
-collectedAt: 2026-09-10T17:34:36Z
+collectedAt: 2026-09-10T21:38:55Z
 loc:
   Go:
-    code: 71252
-    comments: 19413
-    blanks: 12438
+    code: 71362
+    comments: 19436
+    blanks: 12451
     files: 427
   Css:
     code: 1008
@@ -148,9 +148,9 @@ loc:
     blanks: 4773
     files: 982
 total:
-  code: 74627
-  comments: 34402
-  blanks: 18808
+  code: 74737
+  comments: 34425
+  blanks: 18821
   files: 1529
 ---
 date: "2026-09-07"
