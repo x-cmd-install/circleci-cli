@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.50006"
   latestRelease: "v1.0.50006"
   latestPrerelease: "v1.0.46913-pre"
-  collectedAt: 2026-09-10T21:38:47Z
+  collectedAt: 2026-09-10T22:18:11Z
 timeline:
   created: 2018-06-19
   lastCommit: 2026-09-10
@@ -85,7 +85,7 @@ total:
   commit: 1202
 ---
 path: /home/runner/.x-repo/github.com/CircleCI-Public/circleci-cli
-collectedAt: 2026-09-10T21:38:55Z
+collectedAt: 2026-09-10T22:18:16Z
 loc:
   Go:
     code: 71362

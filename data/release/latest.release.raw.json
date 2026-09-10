@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1052,
       "digest": "sha256:b633d0eeca2744db1ead707e872a77be3a390840b9efb9859782c0cec699054f",
-      "download_count": 0,
+      "download_count": 204,
       "created_at": "2026-09-10T21:33:56Z",
       "updated_at": "2026-09-10T21:33:57Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50006/circleci-cli_1.0.50006_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 16093319,
       "digest": "sha256:44a59639c9cb168541b53c8df32a3abff7ea5c3816fc7bc5de0ba0009ab84d56",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-10T21:33:54Z",
       "updated_at": "2026-09-10T21:33:55Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50006/circleci-cli_1.0.50006_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14589535,
       "digest": "sha256:83c8c0db43ddf7a650ac341bd635dff6e4865b9714fd681d1dca446a5c7a8a2a",
-      "download_count": 0,
+      "download_count": 9,
       "created_at": "2026-09-10T21:33:55Z",
       "updated_at": "2026-09-10T21:33:56Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50006/circleci-cli_1.0.50006_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15407245,
       "digest": "sha256:0060bb053708a3866f47f784c4a9d0dafc0131f2001313d86ffefd2c5b25d4c4",
-      "download_count": 0,
+      "download_count": 205,
       "created_at": "2026-09-10T21:33:53Z",
       "updated_at": "2026-09-10T21:33:55Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50006/circleci-cli_1.0.50006_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15732981,
       "digest": "sha256:4093aa84224ebb80731d6d4bab97f3086f880946040e8d19138ec396b0c41fe0",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-09-10T21:33:55Z",
       "updated_at": "2026-09-10T21:33:56Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50006/circleci-cli_1.0.50006_windows_amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14033733,
       "digest": "sha256:91d0222e594d501c7518ab70eb8f43e1945f3b382278453857209ddd23e52727",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-09-10T21:33:53Z",
       "updated_at": "2026-09-10T21:33:55Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50006/circleci-cli_1.0.50006_windows_arm64.zip"
