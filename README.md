@@ -30,8 +30,8 @@ Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 51 | 47 | 10 | 0 | 1 | 33 |
-| last60d | 2026-07-15 | 100 | 152 | 11 | 3 | 4 | 169 |
-| 90d | 2026-06-15 | 100 | 314 | 12 | 4 | 4 | 342 |
-| last180d | 2026-03-17 | 100 | 525 | 12 | 5 | 5 | 691 |
-| 360d | 2025-09-18 | 100 | 541 | 12 | 11 | 6 | 691 |
-| last720d | 2024-09-23 | 100 | 573 | 12 | 46 | 8 | 1207 |
+| 30d | 2026-08-15 | 46 | 47 | 10 | 0 | 1 | 33 |
+| last60d | 2026-07-16 | 100 | 150 | 11 | 3 | 4 | 169 |
+| 90d | 2026-06-16 | 100 | 293 | 12 | 3 | 4 | 342 |
+| last180d | 2026-03-18 | 100 | 525 | 12 | 5 | 5 | 691 |
+| 360d | 2025-09-19 | 100 | 541 | 12 | 11 | 6 | 691 |
+| last720d | 2024-09-24 | 100 | 573 | 12 | 46 | 8 | 1207 |
 
 ## Release assets
 
@@ -81,16 +81,6 @@ Lowest-scoring checks:
 | [circleci_1.0.50068_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50068/circleci_1.0.50068_linux_arm64.deb) | 13.3 MiB | `native/linux/arm64` |
 | [circleci_1.0.50068_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50068/circleci_1.0.50068_linux_arm64.rpm) | 13.3 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/circleci-cli). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.0.50068` | ✅ latest |
-| Nix unstable | `1.0.48571` | ⚠️ outdated |
-| Void | `1.0.47876` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for circleci-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `circleci-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +90,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:25:44Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:46:12Z._

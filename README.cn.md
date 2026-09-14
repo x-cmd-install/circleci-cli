@@ -30,8 +30,8 @@ x install circleci-cli
 
 评分最低的几项:
 
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -58,12 +58,12 @@ x install circleci-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 51 | 47 | 10 | 0 | 1 | 33 |
-| last60d | 2026-07-15 | 100 | 152 | 11 | 3 | 4 | 169 |
-| 90d | 2026-06-15 | 100 | 314 | 12 | 4 | 4 | 342 |
-| last180d | 2026-03-17 | 100 | 525 | 12 | 5 | 5 | 691 |
-| 360d | 2025-09-18 | 100 | 541 | 12 | 11 | 6 | 691 |
-| last720d | 2024-09-23 | 100 | 573 | 12 | 46 | 8 | 1207 |
+| 30d | 2026-08-15 | 46 | 47 | 10 | 0 | 1 | 33 |
+| last60d | 2026-07-16 | 100 | 150 | 11 | 3 | 4 | 169 |
+| 90d | 2026-06-16 | 100 | 293 | 12 | 3 | 4 | 342 |
+| last180d | 2026-03-18 | 100 | 525 | 12 | 5 | 5 | 691 |
+| 360d | 2025-09-19 | 100 | 541 | 12 | 11 | 6 | 691 |
+| last720d | 2024-09-24 | 100 | 573 | 12 | 46 | 8 | 1207 |
 
 ## Release 资产
 
@@ -81,16 +81,6 @@ x install circleci-cli
 | [circleci_1.0.50068_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50068/circleci_1.0.50068_linux_arm64.deb) | 13.3 MiB | `native/linux/arm64` |
 | [circleci_1.0.50068_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50068/circleci_1.0.50068_linux_arm64.rpm) | 13.3 MiB | `native/linux/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/circleci-cli) 上共有 **12** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.0.50068` | ✅ latest |
-| Nix unstable | `1.0.48571` | ⚠️ outdated |
-| Void | `1.0.47876` | ⚠️ outdated |
-
 ## 改进这些数据
 
 circleci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `circleci-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -100,4 +90,4 @@ circleci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:25:44Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:46:13Z._
