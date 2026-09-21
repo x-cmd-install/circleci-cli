@@ -26,13 +26,13 @@ Total: **75,612** lines of code across **517** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 49 | 54 | 7 | 1 | 1 | 52 |
-| last60d | 2026-07-22 | 100 | 160 | 9 | 3 | 4 | 167 |
-| 90d | 2026-06-22 | 100 | 293 | 10 | 4 | 4 | 331 |
-| last180d | 2026-03-24 | 100 | 547 | 10 | 5 | 5 | 716 |
-| 360d | 2025-09-25 | 100 | 562 | 10 | 12 | 6 | 716 |
-| last720d | 2024-09-30 | 100 | 595 | 10 | 47 | 8 | 1254 |
+| 30d | 2026-08-22 | 49 | 54 | 7 | 1 | 1 | 52 |
+| last60d | 2026-07-23 | 100 | 155 | 9 | 3 | 4 | 167 |
+| 90d | 2026-06-23 | 100 | 282 | 10 | 4 | 4 | 331 |
+| last180d | 2026-03-25 | 100 | 547 | 10 | 5 | 5 | 716 |
+| 360d | 2025-09-26 | 100 | 561 | 10 | 12 | 6 | 716 |
+| last720d | 2024-10-01 | 100 | 595 | 10 | 47 | 8 | 1254 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:32:37Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:38:54Z._
