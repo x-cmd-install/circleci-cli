@@ -14,11 +14,11 @@ x install circleci-cli
 
 ## 代码洞察
 
-合计: **75,612** 行代码（覆盖前 5 种语言、共 **517** 个文件）。
+合计: **75,607** 行代码（覆盖前 5 种语言、共 **517** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 72,841 | 19,768 | 12,677 | 432 |
+| Go | 72,836 | 19,768 | 12,678 | 432 |
 | Css | 1,008 | 162 | 197 | 1 |
 | Yaml | 632 | 226 | 55 | 17 |
 | Html | 564 | 0 | 30 | 14 |
@@ -42,8 +42,8 @@ x install circleci-cli
 
 ## 发布
 
-- **最新版本**: `v1.0.50757` (2026-09-18)
-- **最近提交**: 2026-09-18
+- **最新版本**: `v1.0.50849` (2026-09-21)
+- **最近提交**: 2026-09-21
 - **Release 含资产**: 11 个
 
 ## 流行度
@@ -52,34 +52,34 @@ x install circleci-cli
 
 ## 累计统计
 
-- **发布数**: 897 · **已合并 PR**: 1207 · **开放 PR**: 10 · **已关闭 issue**: 344 · **开放 issue**: 16 · **提交数**: 1255
+- **发布数**: 901 · **已合并 PR**: 1211 · **开放 PR**: 7 · **已关闭 issue**: 344 · **开放 issue**: 16 · **提交数**: 1265
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 49 | 54 | 7 | 1 | 1 | 52 |
-| last60d | 2026-07-23 | 100 | 155 | 9 | 3 | 4 | 167 |
-| 90d | 2026-06-23 | 100 | 282 | 10 | 4 | 4 | 331 |
-| last180d | 2026-03-25 | 100 | 547 | 10 | 5 | 5 | 716 |
-| 360d | 2025-09-26 | 100 | 561 | 10 | 12 | 6 | 716 |
-| last720d | 2024-10-01 | 100 | 595 | 10 | 47 | 8 | 1254 |
+| 30d | 2026-08-23 | 53 | 58 | 4 | 1 | 1 | 56 |
+| last60d | 2026-07-24 | 100 | 157 | 5 | 3 | 4 | 171 |
+| 90d | 2026-06-24 | 100 | 278 | 7 | 4 | 4 | 335 |
+| last180d | 2026-03-26 | 100 | 551 | 7 | 5 | 5 | 720 |
+| 360d | 2025-09-27 | 100 | 565 | 7 | 12 | 6 | 720 |
+| last720d | 2024-10-02 | 100 | 599 | 7 | 46 | 8 | 1264 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [circleci-cli_1.0.50757_checksums.txt](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci-cli_1.0.50757_checksums.txt) | 1.0 KiB | `other` |
-| [circleci-cli_1.0.50757_darwin_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci-cli_1.0.50757_darwin_amd64.tar.gz) | 15.4 MiB | `native/darwin/x64` |
-| [circleci-cli_1.0.50757_darwin_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci-cli_1.0.50757_darwin_arm64.tar.gz) | 14.0 MiB | `native/darwin/arm64` |
-| [circleci-cli_1.0.50757_linux_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci-cli_1.0.50757_linux_amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
-| [circleci-cli_1.0.50757_linux_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci-cli_1.0.50757_linux_arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
-| [circleci-cli_1.0.50757_windows_amd64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci-cli_1.0.50757_windows_amd64.zip) | 15.1 MiB | `native/win/x64` |
-| [circleci-cli_1.0.50757_windows_arm64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci-cli_1.0.50757_windows_arm64.zip) | 13.4 MiB | `native/win/arm64` |
-| [circleci_1.0.50757_linux_amd64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci_1.0.50757_linux_amd64.deb) | 14.8 MiB | `native/linux/x64` |
-| [circleci_1.0.50757_linux_amd64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci_1.0.50757_linux_amd64.rpm) | 14.8 MiB | `native/linux/x64` |
-| [circleci_1.0.50757_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci_1.0.50757_linux_arm64.deb) | 13.3 MiB | `native/linux/arm64` |
-| [circleci_1.0.50757_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50757/circleci_1.0.50757_linux_arm64.rpm) | 13.3 MiB | `native/linux/arm64` |
+| [circleci-cli_1.0.50849_checksums.txt](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci-cli_1.0.50849_checksums.txt) | 1.0 KiB | `other` |
+| [circleci-cli_1.0.50849_darwin_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci-cli_1.0.50849_darwin_amd64.tar.gz) | 15.5 MiB | `native/darwin/x64` |
+| [circleci-cli_1.0.50849_darwin_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci-cli_1.0.50849_darwin_arm64.tar.gz) | 14.0 MiB | `native/darwin/arm64` |
+| [circleci-cli_1.0.50849_linux_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci-cli_1.0.50849_linux_amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
+| [circleci-cli_1.0.50849_linux_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci-cli_1.0.50849_linux_arm64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
+| [circleci-cli_1.0.50849_windows_amd64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci-cli_1.0.50849_windows_amd64.zip) | 15.1 MiB | `native/win/x64` |
+| [circleci-cli_1.0.50849_windows_arm64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci-cli_1.0.50849_windows_arm64.zip) | 13.5 MiB | `native/win/arm64` |
+| [circleci_1.0.50849_linux_amd64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci_1.0.50849_linux_amd64.deb) | 14.8 MiB | `native/linux/x64` |
+| [circleci_1.0.50849_linux_amd64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci_1.0.50849_linux_amd64.rpm) | 14.8 MiB | `native/linux/x64` |
+| [circleci_1.0.50849_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci_1.0.50849_linux_arm64.deb) | 13.4 MiB | `native/linux/arm64` |
+| [circleci_1.0.50849_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.50849/circleci_1.0.50849_linux_arm64.rpm) | 13.4 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -90,4 +90,4 @@ circleci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:38:55Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T05:35:30Z._
