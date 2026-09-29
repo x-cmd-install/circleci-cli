@@ -14,13 +14,13 @@ x install circleci-cli
 
 ## Code insight
 
-Total: **76,497** lines of code across **519** files in the top 5 languages.
+Total: **77,006** lines of code across **525** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 73,722 | 19,891 | 12,820 | 433 |
+| Go | 74,217 | 20,014 | 12,939 | 437 |
 | Css | 1,008 | 162 | 197 | 1 |
-| Yaml | 632 | 226 | 55 | 17 |
+| Yaml | 646 | 241 | 55 | 19 |
 | Html | 564 | 0 | 30 | 14 |
 | Json | 281 | 0 | 1 | 54 |
 
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.0.51515` (2026-09-25)
-- **Last commit**: 2026-09-25
+- **Latest**: `v1.0.51648` (2026-09-28)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 11
 
 ## Popularity
@@ -52,34 +52,34 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 908 · **Merged PRs**: 1218 · **Open PRs**: 15 · **Closed issues**: 344 · **Open issues**: 16 · **Commits**: 1279
+- **Releases**: 910 · **Merged PRs**: 1220 · **Open PRs**: 14 · **Closed issues**: 344 · **Open issues**: 16 · **Commits**: 1283
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 54 | 56 | 11 | 1 | 0 | 47 |
-| last60d | 2026-07-30 | 100 | 152 | 13 | 2 | 3 | 154 |
-| 90d | 2026-06-30 | 100 | 255 | 14 | 4 | 4 | 278 |
-| last180d | 2026-04-01 | 100 | 557 | 15 | 5 | 5 | 727 |
-| 360d | 2025-10-03 | 100 | 572 | 15 | 12 | 6 | 727 |
-| last720d | 2024-10-08 | 100 | 606 | 15 | 45 | 8 | 1278 |
+| 30d | 2026-08-30 | 56 | 58 | 11 | 1 | 0 | 49 |
+| last60d | 2026-07-31 | 100 | 153 | 12 | 2 | 3 | 156 |
+| 90d | 2026-07-01 | 100 | 250 | 13 | 4 | 4 | 280 |
+| last180d | 2026-04-02 | 100 | 558 | 14 | 5 | 5 | 729 |
+| 360d | 2025-10-04 | 100 | 574 | 14 | 12 | 6 | 729 |
+| last720d | 2024-10-09 | 100 | 608 | 14 | 45 | 8 | 1282 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [circleci-cli_1.0.51515_checksums.txt](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci-cli_1.0.51515_checksums.txt) | 1.0 KiB | `other` |
-| [circleci-cli_1.0.51515_darwin_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci-cli_1.0.51515_darwin_amd64.tar.gz) | 15.5 MiB | `native/darwin/x64` |
-| [circleci-cli_1.0.51515_darwin_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci-cli_1.0.51515_darwin_arm64.tar.gz) | 14.0 MiB | `native/darwin/arm64` |
-| [circleci-cli_1.0.51515_linux_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci-cli_1.0.51515_linux_amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
-| [circleci-cli_1.0.51515_linux_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci-cli_1.0.51515_linux_arm64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
-| [circleci-cli_1.0.51515_windows_amd64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci-cli_1.0.51515_windows_amd64.zip) | 15.1 MiB | `native/win/x64` |
-| [circleci-cli_1.0.51515_windows_arm64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci-cli_1.0.51515_windows_arm64.zip) | 13.5 MiB | `native/win/arm64` |
-| [circleci_1.0.51515_linux_amd64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci_1.0.51515_linux_amd64.deb) | 14.8 MiB | `native/linux/x64` |
-| [circleci_1.0.51515_linux_amd64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci_1.0.51515_linux_amd64.rpm) | 14.8 MiB | `native/linux/x64` |
-| [circleci_1.0.51515_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci_1.0.51515_linux_arm64.deb) | 13.4 MiB | `native/linux/arm64` |
-| [circleci_1.0.51515_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51515/circleci_1.0.51515_linux_arm64.rpm) | 13.4 MiB | `native/linux/arm64` |
+| [circleci-cli_1.0.51648_checksums.txt](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci-cli_1.0.51648_checksums.txt) | 1.0 KiB | `other` |
+| [circleci-cli_1.0.51648_darwin_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci-cli_1.0.51648_darwin_amd64.tar.gz) | 15.5 MiB | `native/darwin/x64` |
+| [circleci-cli_1.0.51648_darwin_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci-cli_1.0.51648_darwin_arm64.tar.gz) | 14.0 MiB | `native/darwin/arm64` |
+| [circleci-cli_1.0.51648_linux_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci-cli_1.0.51648_linux_amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
+| [circleci-cli_1.0.51648_linux_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci-cli_1.0.51648_linux_arm64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
+| [circleci-cli_1.0.51648_windows_amd64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci-cli_1.0.51648_windows_amd64.zip) | 15.1 MiB | `native/win/x64` |
+| [circleci-cli_1.0.51648_windows_arm64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci-cli_1.0.51648_windows_arm64.zip) | 13.5 MiB | `native/win/arm64` |
+| [circleci_1.0.51648_linux_amd64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci_1.0.51648_linux_amd64.deb) | 14.8 MiB | `native/linux/x64` |
+| [circleci_1.0.51648_linux_amd64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci_1.0.51648_linux_amd64.rpm) | 14.8 MiB | `native/linux/x64` |
+| [circleci_1.0.51648_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci_1.0.51648_linux_arm64.deb) | 13.4 MiB | `native/linux/arm64` |
+| [circleci_1.0.51648_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.51648/circleci_1.0.51648_linux_arm64.rpm) | 13.4 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -90,4 +90,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:50:55Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:18:25Z._
