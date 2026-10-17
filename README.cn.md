@@ -14,11 +14,11 @@ x install circleci-cli
 
 ## 代码洞察
 
-合计: **83,137** 行代码（覆盖前 5 种语言、共 **551** 个文件）。
+合计: **83,565** 行代码（覆盖前 5 种语言、共 **551** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 80,319 | 21,050 | 13,839 | 462 |
+| Go | 80,747 | 21,076 | 13,896 | 462 |
 | Css | 1,008 | 162 | 197 | 1 |
 | Yaml | 671 | 244 | 56 | 19 |
 | Html | 564 | 0 | 30 | 14 |
@@ -42,44 +42,44 @@ x install circleci-cli
 
 ## 发布
 
-- **最新版本**: `v1.6.0` (2026-10-15)
-- **最近提交**: 2026-10-15
+- **最新版本**: `v1.7.0` (2026-10-16)
+- **最近提交**: 2026-10-16
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 460 · **Fork**: 255 · **开放 issue**: 363 · **贡献者**: 46
+- **Star**: 461 · **Fork**: 257 · **开放 issue**: 363 · **贡献者**: 46
 
 ## 累计统计
 
-- **发布数**: 925 · **已合并 PR**: 1262 · **开放 PR**: 18 · **已关闭 issue**: 346 · **开放 issue**: 17 · **提交数**: 1367
+- **发布数**: 926 · **已合并 PR**: 1267 · **开放 PR**: 19 · **已关闭 issue**: 346 · **开放 issue**: 17 · **提交数**: 1377
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 35 | 57 | 12 | 1 | 2 | 56 |
-| last60d | 2026-08-17 | 92 | 121 | 15 | 2 | 3 | 121 |
-| 90d | 2026-07-18 | 100 | 224 | 17 | 6 | 5 | 255 |
-| last180d | 2026-04-19 | 100 | 600 | 18 | 7 | 6 | 772 |
-| 360d | 2025-10-21 | 100 | 616 | 18 | 14 | 7 | 772 |
-| last720d | 2024-10-26 | 100 | 650 | 18 | 45 | 9 | 1366 |
+| 30d | 2026-09-17 | 32 | 60 | 13 | 1 | 2 | 61 |
+| last60d | 2026-08-18 | 92 | 121 | 16 | 2 | 3 | 126 |
+| 90d | 2026-07-19 | 100 | 227 | 18 | 6 | 5 | 260 |
+| last180d | 2026-04-20 | 100 | 603 | 19 | 7 | 5 | 777 |
+| 360d | 2025-10-22 | 100 | 621 | 19 | 14 | 7 | 777 |
+| last720d | 2024-10-27 | 100 | 655 | 19 | 45 | 9 | 1376 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [circleci-cli_1.6.0_checksums.txt](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci-cli_1.6.0_checksums.txt) | 1012 B | `other` |
-| [circleci-cli_1.6.0_darwin_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci-cli_1.6.0_darwin_amd64.tar.gz) | 15.8 MiB | `native/darwin/x64` |
-| [circleci-cli_1.6.0_darwin_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci-cli_1.6.0_darwin_arm64.tar.gz) | 14.3 MiB | `native/darwin/arm64` |
-| [circleci-cli_1.6.0_linux_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci-cli_1.6.0_linux_amd64.tar.gz) | 15.1 MiB | `native/linux/x64` |
-| [circleci-cli_1.6.0_linux_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci-cli_1.6.0_linux_arm64.tar.gz) | 13.6 MiB | `native/linux/arm64` |
-| [circleci-cli_1.6.0_windows_amd64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci-cli_1.6.0_windows_amd64.zip) | 15.4 MiB | `native/win/x64` |
-| [circleci-cli_1.6.0_windows_arm64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci-cli_1.6.0_windows_arm64.zip) | 13.7 MiB | `native/win/arm64` |
-| [circleci_1.6.0_linux_amd64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci_1.6.0_linux_amd64.deb) | 15.1 MiB | `native/linux/x64` |
-| [circleci_1.6.0_linux_amd64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci_1.6.0_linux_amd64.rpm) | 15.1 MiB | `native/linux/x64` |
-| [circleci_1.6.0_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci_1.6.0_linux_arm64.deb) | 13.6 MiB | `native/linux/arm64` |
-| [circleci_1.6.0_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.6.0/circleci_1.6.0_linux_arm64.rpm) | 13.6 MiB | `native/linux/arm64` |
+| [circleci-cli_1.7.0_checksums.txt](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_checksums.txt) | 1012 B | `other` |
+| [circleci-cli_1.7.0_darwin_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_darwin_amd64.tar.gz) | 15.8 MiB | `native/darwin/x64` |
+| [circleci-cli_1.7.0_darwin_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_darwin_arm64.tar.gz) | 14.3 MiB | `native/darwin/arm64` |
+| [circleci-cli_1.7.0_linux_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_linux_amd64.tar.gz) | 15.1 MiB | `native/linux/x64` |
+| [circleci-cli_1.7.0_linux_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_linux_arm64.tar.gz) | 13.6 MiB | `native/linux/arm64` |
+| [circleci-cli_1.7.0_windows_amd64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_windows_amd64.zip) | 15.4 MiB | `native/win/x64` |
+| [circleci-cli_1.7.0_windows_arm64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_windows_arm64.zip) | 13.7 MiB | `native/win/arm64` |
+| [circleci_1.7.0_linux_amd64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci_1.7.0_linux_amd64.deb) | 15.1 MiB | `native/linux/x64` |
+| [circleci_1.7.0_linux_amd64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci_1.7.0_linux_amd64.rpm) | 15.1 MiB | `native/linux/x64` |
+| [circleci_1.7.0_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci_1.7.0_linux_arm64.deb) | 13.6 MiB | `native/linux/arm64` |
+| [circleci_1.7.0_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci_1.7.0_linux_arm64.rpm) | 13.6 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -90,4 +90,4 @@ circleci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261016.yml` · 2026-10-16T04:58:24Z._
+_数据快照: `data/card/261017.yml` · 2026-10-17T04:52:29Z._
