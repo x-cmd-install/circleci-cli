@@ -31,8 +31,8 @@ Overall score: **4.6 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 926 · **Merged PRs**: 1267 · **Open PRs**: 18 · **Closed issues**: 346 · **Open issues**: 17 · **Commits**: 1377
+- **Releases**: 926 · **Merged PRs**: 1267 · **Open PRs**: 20 · **Closed issues**: 346 · **Open issues**: 17 · **Commits**: 1377
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 29 | 57 | 13 | 1 | 2 | 43 |
-| last60d | 2026-08-20 | 79 | 114 | 15 | 2 | 3 | 118 |
-| 90d | 2026-07-21 | 100 | 223 | 17 | 6 | 5 | 239 |
-| last180d | 2026-04-22 | 100 | 592 | 18 | 7 | 5 | 740 |
-| 360d | 2025-10-24 | 100 | 621 | 18 | 14 | 7 | 777 |
-| last720d | 2024-10-29 | 100 | 655 | 18 | 45 | 9 | 1376 |
+| 30d | 2026-09-20 | 29 | 57 | 15 | 1 | 2 | 43 |
+| last60d | 2026-08-21 | 78 | 114 | 17 | 2 | 3 | 118 |
+| 90d | 2026-07-22 | 100 | 220 | 19 | 5 | 5 | 239 |
+| last180d | 2026-04-23 | 100 | 588 | 20 | 7 | 5 | 740 |
+| 360d | 2025-10-25 | 100 | 621 | 20 | 14 | 7 | 777 |
+| last720d | 2024-10-30 | 100 | 655 | 20 | 45 | 9 | 1376 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:06:12Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:21:58Z._
