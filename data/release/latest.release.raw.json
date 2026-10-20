@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1012,
       "digest": "sha256:bd429ad14702f2bfbf3952b707692c390a2425d037fdaddb7c870be0e034003d",
-      "download_count": 6031,
+      "download_count": 12141,
       "created_at": "2026-10-16T15:53:56Z",
       "updated_at": "2026-10-16T15:53:57Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 16536041,
       "digest": "sha256:8b4ceba0a9e2bf64923410deb1f21caa6589e422b67d19f138b86ee6b92c378f",
-      "download_count": 17,
+      "download_count": 24,
       "created_at": "2026-10-16T15:53:55Z",
       "updated_at": "2026-10-16T15:53:56Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14983536,
       "digest": "sha256:c612876c351bb16de2f0fbabf81cd9a4cbcfc3a081f0be4aca27992e8be89e4f",
-      "download_count": 261,
+      "download_count": 429,
       "created_at": "2026-10-16T15:53:53Z",
       "updated_at": "2026-10-16T15:53:54Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15843646,
       "digest": "sha256:3058f426a9da843087c2f8396d8f6e900e69779f47647d2f1209547cf63635fe",
-      "download_count": 6503,
+      "download_count": 13030,
       "created_at": "2026-10-16T15:53:53Z",
       "updated_at": "2026-10-16T15:53:55Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14303310,
       "digest": "sha256:5eef06eb4bf5b927ffa23e63eb98f90c949d57ee13f77b75e4a0e251b64193e8",
-      "download_count": 72,
+      "download_count": 111,
       "created_at": "2026-10-16T15:53:53Z",
       "updated_at": "2026-10-16T15:53:54Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 16175956,
       "digest": "sha256:e644b8416ecd5b0718ebdfb8858c9132a706dd102e745fd79fd66b4bd817736b",
-      "download_count": 124,
+      "download_count": 175,
       "created_at": "2026-10-16T15:53:54Z",
       "updated_at": "2026-10-16T15:53:55Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_windows_amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14416259,
       "digest": "sha256:01db187d0b6422b11261d5d20450694ba29a9cd3bd2636c36a06c428f2a96adc",
-      "download_count": 27,
+      "download_count": 33,
       "created_at": "2026-10-16T15:53:53Z",
       "updated_at": "2026-10-16T15:53:54Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci-cli_1.7.0_windows_arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15844808,
       "digest": "sha256:c483c568983cea50ce19ade1b4c410f7520a735bdcdce2d9b6e6bf904a20b8ec",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-10-16T15:53:56Z",
       "updated_at": "2026-10-16T15:53:57Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci_1.7.0_linux_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 15846490,
       "digest": "sha256:c4380206d6948d53683fe02939eb988679f123d3562f27f4b0b4ccf0bfb58029",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-16T15:53:55Z",
       "updated_at": "2026-10-16T15:53:56Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.7.0/circleci_1.7.0_linux_amd64.rpm"
