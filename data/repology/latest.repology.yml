@@ -13,9 +13,9 @@
 - repo: chocolatey
   binname: circleci-cli
   visiblename: CircleCI CLI
-  version: 1.7.0
+  version: 1.11.0
   origversion: null
-  status: outdated
+  status: newest
   summary: CircleCI command line tool
 - repo: homebrew
   srcname: circleci
