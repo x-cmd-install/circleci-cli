@@ -31,8 +31,8 @@ x install circleci-cli
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install circleci-cli
 
 ## 流行度
 
-- **Star**: 462 · **Fork**: 260 · **开放 issue**: 364 · **贡献者**: 48
+- **Star**: 461 · **Fork**: 260 · **开放 issue**: 364 · **贡献者**: 48
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install circleci-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 24 | 57 | 14 | 1 | 3 | 51 |
-| last60d | 2026-08-26 | 82 | 124 | 17 | 2 | 4 | 122 |
-| 90d | 2026-07-27 | 100 | 225 | 18 | 5 | 6 | 231 |
-| last180d | 2026-04-28 | 100 | 582 | 20 | 7 | 6 | 715 |
-| 360d | 2025-10-30 | 100 | 636 | 20 | 14 | 8 | 792 |
-| last720d | 2024-11-04 | 100 | 670 | 20 | 45 | 10 | 1406 |
+| 30d | 2026-09-26 | 22 | 57 | 14 | 1 | 3 | 51 |
+| last60d | 2026-08-27 | 81 | 122 | 17 | 2 | 4 | 122 |
+| 90d | 2026-07-28 | 100 | 219 | 18 | 4 | 6 | 231 |
+| last180d | 2026-04-29 | 100 | 575 | 20 | 7 | 6 | 715 |
+| 360d | 2025-10-31 | 100 | 636 | 20 | 14 | 8 | 792 |
+| last720d | 2024-11-05 | 100 | 670 | 20 | 45 | 10 | 1406 |
 
 ## Release 资产
 
@@ -83,7 +83,7 @@ x install circleci-cli
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/circleci-cli) 上共有 **12** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/circleci-cli) 上共有 **12** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -100,4 +100,4 @@ circleci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T05:04:02Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T05:15:07Z._
