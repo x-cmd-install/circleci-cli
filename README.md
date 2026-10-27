@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 930 · **Merged PRs**: 1282 · **Open PRs**: 20 · **Closed issues**: 346 · **Open issues**: 18 · **Commits**: 1407
+- **Releases**: 930 · **Merged PRs**: 1282 · **Open PRs**: 23 · **Closed issues**: 346 · **Open issues**: 18 · **Commits**: 1407
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 22 | 57 | 14 | 1 | 3 | 51 |
-| last60d | 2026-08-27 | 81 | 122 | 17 | 2 | 4 | 122 |
-| 90d | 2026-07-28 | 100 | 219 | 18 | 4 | 6 | 231 |
-| last180d | 2026-04-29 | 100 | 575 | 20 | 7 | 6 | 715 |
-| 360d | 2025-10-31 | 100 | 636 | 20 | 14 | 8 | 792 |
-| last720d | 2024-11-05 | 100 | 670 | 20 | 45 | 10 | 1406 |
+| 30d | 2026-09-27 | 22 | 57 | 17 | 1 | 3 | 51 |
+| last60d | 2026-08-28 | 80 | 120 | 20 | 2 | 4 | 122 |
+| 90d | 2026-07-29 | 100 | 216 | 21 | 3 | 6 | 231 |
+| last180d | 2026-04-30 | 100 | 565 | 23 | 7 | 6 | 715 |
+| 360d | 2025-11-01 | 100 | 636 | 23 | 14 | 8 | 792 |
+| last720d | 2024-11-06 | 100 | 670 | 23 | 45 | 10 | 1406 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:15:06Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:32:10Z._
