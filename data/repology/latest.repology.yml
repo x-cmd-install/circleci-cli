@@ -4,7 +4,7 @@
   visiblename: circleci-cli-bin
   version: 1.11.0
   origversion: 1.11.0-1
-  status: newest
+  status: outdated
   summary: CircleCI's new command-line application.
   maintainers:
     - igemnace@aur
@@ -15,12 +15,12 @@
   visiblename: CircleCI CLI
   version: 1.11.0
   origversion: null
-  status: newest
+  status: outdated
   summary: CircleCI command line tool
 - repo: homebrew
   srcname: circleci
   visiblename: circleci
-  version: 1.11.0
+  version: 1.12.0
   origversion: null
   status: newest
   summary: Official command-line tool for CircleCI
@@ -89,7 +89,7 @@
 - repo: nix_unstable
   srcname: circleci-cli
   visiblename: circleci-cli
-  version: 1.5.0
+  version: 1.11.0
   origversion: null
   status: outdated
   summary: Command to enable you to reproduce the CircleCI environment locally and run jobs as if they were running on the hosted CircleCI application.
@@ -101,7 +101,7 @@
   subrepo: main
   binname: circleci-cli
   visiblename: circleci-cli
-  version: 1.11.0
+  version: 1.12.0
   origversion: null
   status: newest
   licenses:
