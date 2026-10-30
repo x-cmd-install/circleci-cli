@@ -2,15 +2,15 @@ about:
   description: "Use CircleCI from the command line"
   license: MIT
   homepage: https://cli.circleci.com
-  head: 20c7009
+  head: d482356
   archived: false
   latestVersion: "v1.12.0"
   latestRelease: "v1.12.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:19:37Z
+  collectedAt: 2026-10-30T06:15:08Z
 timeline:
   created: 2018-06-19
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 2026-10-28
   lastRelease: 2026-10-28
   lastPrerelease: 
@@ -20,78 +20,78 @@ popularity:
   fork: 259
   release: 931
   contributor: 48
-  pullRequest: 1541
+  pullRequest: 1542
   issue: 365
 language:
-  Go: 4354644
+  Go: 4364132
   Shell: 10348
   HTML: 3612
   Dockerfile: 2395
-totalBytes: 4370999
+totalBytes: 4380487
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 21
-    mergedPR: 62
+    mergedPR: 61
     openPR: 15
     closedIssue: 2
     openIssue: 3
-    commit: 58
+    commit: 59
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 77
-    mergedPR: 127
+    mergedPR: 128
     openPR: 18
     closedIssue: 3
     openIssue: 3
-    commit: 129
+    commit: 130
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 100
     mergedPR: 222
     openPR: 19
     closedIssue: 4
     openIssue: 6
-    commit: 238
+    commit: 239
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 100
-    mergedPR: 569
+    mergedPR: 570
     openPR: 21
     closedIssue: 8
     openIssue: 6
-    commit: 722
+    commit: 723
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
-    mergedPR: 643
+    mergedPR: 644
     openPR: 21
     closedIssue: 15
     openIssue: 8
-    commit: 799
+    commit: 800
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 676
+    mergedPR: 677
     openPR: 21
     closedIssue: 46
     openIssue: 10
-    commit: 1420
+    commit: 1423
 total:
   release: 931
-  mergedPR: 1289
+  mergedPR: 1290
   openPR: 21
   closedIssue: 347
   openIssue: 18
-  commit: 1421
+  commit: 1424
 ---
 path: /home/runner/.x-repo/github.com/CircleCI-Public/circleci-cli
-collectedAt: 2026-10-29T06:19:41Z
+collectedAt: 2026-10-30T06:15:12Z
 loc:
   Go:
-    code: 87311
-    comments: 22222
-    blanks: 14930
+    code: 87477
+    comments: 22257
+    blanks: 14952
     files: 493
   Css:
     code: 1008
@@ -150,14 +150,14 @@ loc:
     files: 26
   Text:
     code: 0
-    comments: 12908
-    blanks: 5371
-    files: 1306
+    comments: 12924
+    blanks: 5370
+    files: 1308
 total:
-  code: 90736
-  comments: 39113
-  blanks: 21947
-  files: 1925
+  code: 90902
+  comments: 39164
+  blanks: 21968
+  files: 1927
 ---
 date: "2026-10-26"
 repo:
@@ -256,4 +256,4 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":426881787,"author":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCDg72M4ZcbL7","tag_name":"v1.12.0","target_commitish":"main","name":"CircleCI CLI 1.12.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-10-28T15:52:52Z","updated_at":"2026-10-28T15:57:37Z","published_at":"2026-10-28T15:57:37Z","assets":[{"id":685513241,"node_id":"RA_kwDOCDg72M4o3BoZ","name":"circleci-cli_1.12.0_checksums.txt","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":1022,"digest":"sha256:7b8702620f50190d81aeb58f5702fb0dc9e977aa6575f9a1c62d756c744e13dd","download_count":4474,"created_at":"2026-10-28T15:57:36Z","updated_at":"2026-10-28T15:57:36Z"},{"id":685513083,"node_id":"RA_kwDOCDg72M4o3Bl7","name":"circleci-cli_1.12.0_darwin_amd64.tar.gz","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":16665122,"digest":"sha256:61c79d32fc83fce0a31544955fd0af6aff436b6ed37d83f930f74be2a6961158","download_count":6,"created_at":"2026-10-28T15:57:32Z","updated_at":"2026-10-28T15:57:33Z"},{"id":685513079,"node_id":"RA_kwDOCDg72M4o3Bl3","name":"circleci-cli_1.12.0_darwin_arm64.tar.gz","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":15105089,"digest":"sha256:0bec61f58e90b4db788434f6176a000d79d2dd1822ea5f4d4f61c764d8ee9c51","download_count":132,"created_at":"2026-10-28T15:57:32Z","updated_at":"2026-10-28T15:57:33Z"},{"id":685513136,"node_id":"RA_kwDOCDg72M4o3Bmw","name":"circleci-cli_1.12.0_linux_amd64.tar.gz","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":15966282,"digest":"sha256:94869aa90e608c6d019ee134b8b32b0e6907e19cc54f63fec855bbd5d3ba805f","download_count":4639,"created_at":"2026-10-28T15:57:33Z","updated_at":"2026-10-28T15:57:35Z"},{"id":685513085,"node_id":"RA_kwDOCDg72M4o3Bl9","name":"circleci-cli_1.12.0_linux_arm64.tar.gz","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":14417995,"digest":"sha256:d77165bc0020ef60c30e83581c807a9527d68777db8e1900bfc4243ca60babd2","download_count":19,"created_at":"2026-10-28T15:57:32Z","updated_at":"2026-10-28T15:57:33Z"},{"id":685513080,"node_id":"RA_kwDOCDg72M4o3Bl4","name":"circleci-cli_1.12.0_windows_amd64.zip","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":16301407,"digest":"sha256:ec2873cd3e9d1f2c579ebd23cabb116f6a02d735aeeb574438081eb2e8175638","download_count":42,"created_at":"2026-10-28T15:57:32Z","updated_at":"2026-10-28T15:57:33Z"},{"id":685513123,"node_id":"RA_kwDOCDg72M4o3Bmj","name":"circleci-cli_1.12.0_windows_arm64.zip","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":14535301,"digest":"sha256:795a062cb5f5f6624795771c997460d2726ecb3c6257316679a02bb13a45c8e1","download_count":13,"created_at":"2026-10-28T15:57:33Z","updated_at":"2026-10-28T15:57:34Z"},{"id":685513232,"node_id":"RA_kwDOCDg72M4o3BoQ","name":"circleci_1.12.0_linux_amd64.deb","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/vnd.debian.binary-package","state":"uploaded","size":15970128,"digest":"sha256:e1a435d46d11f6eec4cf633f0ba8d66c5f24d3f0c3d9e49018df8fe19bbc3311","download_count":0,"created_at":"2026-10-28T15:57:35Z","updated_at":"2026-10-28T15:57:36Z"},{"id":685513155,"node_id":"RA_kwDOCDg72M4o3BnD","name":"circleci_1.12.0_linux_amd64.rpm","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":15968209,"digest":"sha256:667dbf5b9a4321fcc4bec1781c249259add2b47e2beab18e72a23194dfd56056","download_count":0,"created_at":"2026-10-28T15:57:34Z","updated_at":"2026-10-28T15:57:35Z"},{"id":685513189,"node_id":"RA_kwDOCDg72M4o3Bnl","name":"circleci_1.12.0_linux_arm64.deb","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/vnd.debian.binary-package","state":"uploaded","size":14413726,"digest":"sha256:7c97e5c4849c39129dd7b6c9bb86099b3389d8b57ba419e672fa22835efe0a83","download_count":0,"created_at":"2026-10-28T15:57:34Z","updated_at":"2026-10-28T15:57:35Z"},{"id":685513154,"node_id":"RA_kwDOCDg72M4o3BnC","name":"circleci_1.12.0_linux_arm64.rpm","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":14416432,"digest":"sha256:ace72795e8e243fa4c763dcb95928907b289775e510fe743a858d4d05ac53d6f","download_count":0,"created_at":"2026-10-28T15:57:34Z","updated_at":"2026-10-28T15:57:35Z"}],"body":"### What's Changed\n* Point run watch failures at the failure report and next steps (AEX-42) by @joel-thompson in https://github.com/CircleCI-Public/circleci-cli/pull/1937\n* Add circleci preflight to run uncommitted changes through CI by @gcirclest in https://github.com/CircleCI-Public/circleci-cli/pull/1889\n* End the failure report with next steps by @joel-thompson in https://github.com/CircleCI-Public/circleci-cli/pull/1941\n* Add project trigger update and delete by @gcirclest in https://github.com/CircleCI-Public/circleci-cli/pull/1951\n* Show job warnings in job get by @felixshiftellecon in https://github.com/CircleCI-Public/circleci-cli/pull/1953\n* Let feedback report a missing or short Function by @stiyyagura0901 in https://github.com/CircleCI-Public/circleci-cli/pull/1954\n* Select pipeline definition by name in pipeline run by @gcirclest in https://github.com/CircleCI-Public/circleci-cli/pull/1948\n* Add circleci orb version to get a single orb version by @gcirclest in https://github.com/CircleCI-Public/circleci-cli/pull/1946\n\n### New Contributors\n* @felixshiftellecon made their first contribution in https://github.com/CircleCI-Public/circleci-cli/pull/1953\n\n**Full Changelog**: https://github.com/CircleCI-Public/circleci-cli/compare/v1.11.0...v1.12.0\n\n","mentions_count":4}
+{"id":426881787,"author":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCDg72M4ZcbL7","tag_name":"v1.12.0","target_commitish":"main","name":"CircleCI CLI 1.12.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-10-28T15:52:52Z","updated_at":"2026-10-28T15:57:37Z","published_at":"2026-10-28T15:57:37Z","assets":[{"id":685513241,"node_id":"RA_kwDOCDg72M4o3BoZ","name":"circleci-cli_1.12.0_checksums.txt","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":1022,"digest":"sha256:7b8702620f50190d81aeb58f5702fb0dc9e977aa6575f9a1c62d756c744e13dd","download_count":11106,"created_at":"2026-10-28T15:57:36Z","updated_at":"2026-10-28T15:57:36Z"},{"id":685513083,"node_id":"RA_kwDOCDg72M4o3Bl7","name":"circleci-cli_1.12.0_darwin_amd64.tar.gz","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":16665122,"digest":"sha256:61c79d32fc83fce0a31544955fd0af6aff436b6ed37d83f930f74be2a6961158","download_count":13,"created_at":"2026-10-28T15:57:32Z","updated_at":"2026-10-28T15:57:33Z"},{"id":685513079,"node_id":"RA_kwDOCDg72M4o3Bl3","name":"circleci-cli_1.12.0_darwin_arm64.tar.gz","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":15105089,"digest":"sha256:0bec61f58e90b4db788434f6176a000d79d2dd1822ea5f4d4f61c764d8ee9c51","download_count":353,"created_at":"2026-10-28T15:57:32Z","updated_at":"2026-10-28T15:57:33Z"},{"id":685513136,"node_id":"RA_kwDOCDg72M4o3Bmw","name":"circleci-cli_1.12.0_linux_amd64.tar.gz","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":15966282,"digest":"sha256:94869aa90e608c6d019ee134b8b32b0e6907e19cc54f63fec855bbd5d3ba805f","download_count":11651,"created_at":"2026-10-28T15:57:33Z","updated_at":"2026-10-28T15:57:35Z"},{"id":685513085,"node_id":"RA_kwDOCDg72M4o3Bl9","name":"circleci-cli_1.12.0_linux_arm64.tar.gz","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":14417995,"digest":"sha256:d77165bc0020ef60c30e83581c807a9527d68777db8e1900bfc4243ca60babd2","download_count":66,"created_at":"2026-10-28T15:57:32Z","updated_at":"2026-10-28T15:57:33Z"},{"id":685513080,"node_id":"RA_kwDOCDg72M4o3Bl4","name":"circleci-cli_1.12.0_windows_amd64.zip","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":16301407,"digest":"sha256:ec2873cd3e9d1f2c579ebd23cabb116f6a02d735aeeb574438081eb2e8175638","download_count":109,"created_at":"2026-10-28T15:57:32Z","updated_at":"2026-10-28T15:57:33Z"},{"id":685513123,"node_id":"RA_kwDOCDg72M4o3Bmj","name":"circleci-cli_1.12.0_windows_arm64.zip","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":14535301,"digest":"sha256:795a062cb5f5f6624795771c997460d2726ecb3c6257316679a02bb13a45c8e1","download_count":23,"created_at":"2026-10-28T15:57:33Z","updated_at":"2026-10-28T15:57:34Z"},{"id":685513232,"node_id":"RA_kwDOCDg72M4o3BoQ","name":"circleci_1.12.0_linux_amd64.deb","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/vnd.debian.binary-package","state":"uploaded","size":15970128,"digest":"sha256:e1a435d46d11f6eec4cf633f0ba8d66c5f24d3f0c3d9e49018df8fe19bbc3311","download_count":1,"created_at":"2026-10-28T15:57:35Z","updated_at":"2026-10-28T15:57:36Z"},{"id":685513155,"node_id":"RA_kwDOCDg72M4o3BnD","name":"circleci_1.12.0_linux_amd64.rpm","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":15968209,"digest":"sha256:667dbf5b9a4321fcc4bec1781c249259add2b47e2beab18e72a23194dfd56056","download_count":0,"created_at":"2026-10-28T15:57:34Z","updated_at":"2026-10-28T15:57:35Z"},{"id":685513189,"node_id":"RA_kwDOCDg72M4o3Bnl","name":"circleci_1.12.0_linux_arm64.deb","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/vnd.debian.binary-package","state":"uploaded","size":14413726,"digest":"sha256:7c97e5c4849c39129dd7b6c9bb86099b3389d8b57ba419e672fa22835efe0a83","download_count":0,"created_at":"2026-10-28T15:57:34Z","updated_at":"2026-10-28T15:57:35Z"},{"id":685513154,"node_id":"RA_kwDOCDg72M4o3BnC","name":"circleci_1.12.0_linux_arm64.rpm","label":"","uploader":{"login":"cci-publish","id":224129301,"node_id":"U_kgDODVvxFQ","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":14416432,"digest":"sha256:ace72795e8e243fa4c763dcb95928907b289775e510fe743a858d4d05ac53d6f","download_count":0,"created_at":"2026-10-28T15:57:34Z","updated_at":"2026-10-28T15:57:35Z"}],"body":"### What's Changed\n* Point run watch failures at the failure report and next steps (AEX-42) by @joel-thompson in https://github.com/CircleCI-Public/circleci-cli/pull/1937\n* Add circleci preflight to run uncommitted changes through CI by @gcirclest in https://github.com/CircleCI-Public/circleci-cli/pull/1889\n* End the failure report with next steps by @joel-thompson in https://github.com/CircleCI-Public/circleci-cli/pull/1941\n* Add project trigger update and delete by @gcirclest in https://github.com/CircleCI-Public/circleci-cli/pull/1951\n* Show job warnings in job get by @felixshiftellecon in https://github.com/CircleCI-Public/circleci-cli/pull/1953\n* Let feedback report a missing or short Function by @stiyyagura0901 in https://github.com/CircleCI-Public/circleci-cli/pull/1954\n* Select pipeline definition by name in pipeline run by @gcirclest in https://github.com/CircleCI-Public/circleci-cli/pull/1948\n* Add circleci orb version to get a single orb version by @gcirclest in https://github.com/CircleCI-Public/circleci-cli/pull/1946\n\n### New Contributors\n* @felixshiftellecon made their first contribution in https://github.com/CircleCI-Public/circleci-cli/pull/1953\n\n**Full Changelog**: https://github.com/CircleCI-Public/circleci-cli/compare/v1.11.0...v1.12.0\n\n","mentions_count":4}
