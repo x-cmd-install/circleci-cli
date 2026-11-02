@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1022,
       "digest": "sha256:1462edb1181f15df9492bc2113a0ecdd70f51be437827928cdac1411d097a74d",
-      "download_count": 5857,
+      "download_count": 8247,
       "created_at": "2026-10-30T13:37:14Z",
       "updated_at": "2026-10-30T13:37:15Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci-cli_1.13.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 16672194,
       "digest": "sha256:e713bff2c259f3e542212833288fd04bff1a7dbb17e5b1b773fab6cc93890a4a",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-10-30T13:37:10Z",
       "updated_at": "2026-10-30T13:37:11Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci-cli_1.13.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15109983,
       "digest": "sha256:8a0568367d14d21d6006a7cded497ab7b5d9a8e12efa38f16895200c9466c809",
-      "download_count": 239,
+      "download_count": 314,
       "created_at": "2026-10-30T13:37:12Z",
       "updated_at": "2026-10-30T13:37:14Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci-cli_1.13.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15970683,
       "digest": "sha256:2ba9bb1f69c3b0f1dcccffdd1ba9f4bd79b24814978ccb9dbc45a7e9de30ecc9",
-      "download_count": 5865,
+      "download_count": 8342,
       "created_at": "2026-10-30T13:37:10Z",
       "updated_at": "2026-10-30T13:37:11Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci-cli_1.13.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14421707,
       "digest": "sha256:e7e684056641124a399dad1349cba7c0fa24c591d7e6413be9ae509e7185f9de",
-      "download_count": 59,
+      "download_count": 87,
       "created_at": "2026-10-30T13:37:10Z",
       "updated_at": "2026-10-30T13:37:11Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci-cli_1.13.0_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 16305452,
       "digest": "sha256:2e48e22d9e746a64ccc8a424981e1d405d6a71747a67100510fc0f5b846f09ac",
-      "download_count": 85,
+      "download_count": 121,
       "created_at": "2026-10-30T13:37:10Z",
       "updated_at": "2026-10-30T13:37:11Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci-cli_1.13.0_windows_amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14538127,
       "digest": "sha256:813db3a0607f627b846f2559f0d5a92723e686d83febee8f2d5478c8069cb8ef",
-      "download_count": 26,
+      "download_count": 34,
       "created_at": "2026-10-30T13:37:12Z",
       "updated_at": "2026-10-30T13:37:13Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci-cli_1.13.0_windows_arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15972802,
       "digest": "sha256:bc0db8af9ea5b3b19902700b667bc37dabee80428f7cbc8b6b1c68cc6bef4dc7",
-      "download_count": 15,
+      "download_count": 36,
       "created_at": "2026-10-30T13:37:14Z",
       "updated_at": "2026-10-30T13:37:15Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci_1.13.0_linux_amd64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 15971896,
       "digest": "sha256:ff8c60ada0ce7aaf0fd16b85969aa32f67e88bab0f37cad505da222ca727e915",
-      "download_count": 17,
+      "download_count": 35,
       "created_at": "2026-10-30T13:37:12Z",
       "updated_at": "2026-10-30T13:37:13Z",
       "browser_download_url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.13.0/circleci_1.13.0_linux_amd64.rpm"
