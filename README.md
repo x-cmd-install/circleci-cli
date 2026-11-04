@@ -26,13 +26,13 @@ Total: **90,433** lines of code across **583** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 932 · **Merged PRs**: 1295 · **Open PRs**: 22 · **Closed issues**: 347 · **Open issues**: 19 · **Commits**: 1434
+- **Releases**: 932 · **Merged PRs**: 1295 · **Open PRs**: 24 · **Closed issues**: 348 · **Open issues**: 18 · **Commits**: 1434
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 16 | 58 | 15 | 2 | 3 | 41 |
-| last60d | 2026-09-04 | 66 | 121 | 18 | 3 | 4 | 121 |
-| 90d | 2026-08-05 | 100 | 198 | 20 | 3 | 5 | 188 |
-| last180d | 2026-05-07 | 100 | 563 | 22 | 8 | 7 | 704 |
-| 360d | 2025-11-08 | 100 | 649 | 22 | 15 | 9 | 805 |
-| last720d | 2024-11-13 | 100 | 680 | 22 | 46 | 11 | 1433 |
+| 30d | 2026-10-05 | 16 | 54 | 17 | 3 | 2 | 41 |
+| last60d | 2026-09-05 | 65 | 121 | 20 | 4 | 3 | 121 |
+| 90d | 2026-08-06 | 100 | 192 | 22 | 4 | 4 | 188 |
+| last180d | 2026-05-08 | 100 | 559 | 24 | 9 | 6 | 704 |
+| 360d | 2025-11-09 | 100 | 649 | 24 | 16 | 8 | 805 |
+| last720d | 2024-11-14 | 100 | 680 | 24 | 47 | 10 | 1433 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:20:56Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:58:45Z._

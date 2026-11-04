@@ -26,13 +26,13 @@ x install circleci-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.6 / 10**
+总评分: **5 / 10**
 
 评分最低的几项:
 
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -52,18 +52,18 @@ x install circleci-cli
 
 ## 累计统计
 
-- **发布数**: 932 · **已合并 PR**: 1295 · **开放 PR**: 22 · **已关闭 issue**: 347 · **开放 issue**: 19 · **提交数**: 1434
+- **发布数**: 932 · **已合并 PR**: 1295 · **开放 PR**: 24 · **已关闭 issue**: 348 · **开放 issue**: 18 · **提交数**: 1434
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 16 | 58 | 15 | 2 | 3 | 41 |
-| last60d | 2026-09-04 | 66 | 121 | 18 | 3 | 4 | 121 |
-| 90d | 2026-08-05 | 100 | 198 | 20 | 3 | 5 | 188 |
-| last180d | 2026-05-07 | 100 | 563 | 22 | 8 | 7 | 704 |
-| 360d | 2025-11-08 | 100 | 649 | 22 | 15 | 9 | 805 |
-| last720d | 2024-11-13 | 100 | 680 | 22 | 46 | 11 | 1433 |
+| 30d | 2026-10-05 | 16 | 54 | 17 | 3 | 2 | 41 |
+| last60d | 2026-09-05 | 65 | 121 | 20 | 4 | 3 | 121 |
+| 90d | 2026-08-06 | 100 | 192 | 22 | 4 | 4 | 188 |
+| last180d | 2026-05-08 | 100 | 559 | 24 | 9 | 6 | 704 |
+| 360d | 2025-11-09 | 100 | 649 | 24 | 16 | 8 | 805 |
+| last720d | 2024-11-14 | 100 | 680 | 24 | 47 | 10 | 1433 |
 
 ## Release 资产
 
@@ -100,4 +100,4 @@ circleci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:20:56Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:58:46Z._
