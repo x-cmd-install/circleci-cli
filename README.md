@@ -14,11 +14,11 @@ x install circleci-cli
 
 ## Code insight
 
-Total: **91,251** lines of code across **587** files in the top 5 languages.
+Total: **91,301** lines of code across **587** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 88,417 | 22,450 | 15,088 | 497 |
+| Go | 88,467 | 22,451 | 15,092 | 497 |
 | Css | 1,008 | 162 | 197 | 1 |
 | Yaml | 678 | 253 | 56 | 19 |
 | Html | 572 | 0 | 31 | 14 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.14.0` (2026-11-04)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 460 · **Forks**: 261 · **Open issues**: 367 · **Contributors**: 48
+- **Stars**: 460 · **Forks**: 262 · **Open issues**: 367 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 933 · **Merged PRs**: 1299 · **Open PRs**: 26 · **Closed issues**: 348 · **Open issues**: 19 · **Commits**: 1442
+- **Releases**: 933 · **Merged PRs**: 1301 · **Open PRs**: 27 · **Closed issues**: 348 · **Open issues**: 19 · **Commits**: 1446
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 12 | 43 | 19 | 3 | 3 | 45 |
-| last60d | 2026-09-07 | 66 | 124 | 22 | 4 | 4 | 125 |
-| 90d | 2026-08-08 | 100 | 190 | 24 | 4 | 5 | 192 |
-| last180d | 2026-05-10 | 100 | 563 | 26 | 9 | 7 | 708 |
-| 360d | 2025-11-11 | 100 | 653 | 26 | 16 | 9 | 809 |
-| last720d | 2024-11-16 | 100 | 684 | 26 | 47 | 11 | 1441 |
+| 30d | 2026-10-08 | 11 | 44 | 20 | 2 | 2 | 47 |
+| last60d | 2026-09-08 | 66 | 122 | 23 | 4 | 4 | 127 |
+| 90d | 2026-08-09 | 100 | 191 | 25 | 4 | 5 | 194 |
+| last180d | 2026-05-11 | 100 | 563 | 27 | 9 | 7 | 710 |
+| 360d | 2025-11-12 | 100 | 655 | 27 | 16 | 9 | 811 |
+| last720d | 2024-11-17 | 100 | 686 | 27 | 47 | 11 | 1445 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:18:31Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:33:04Z._
