@@ -30,8 +30,8 @@ Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 10 | 42 | 20 | 2 | 2 | 47 |
-| last60d | 2026-09-09 | 65 | 118 | 23 | 4 | 4 | 127 |
-| 90d | 2026-08-10 | 100 | 189 | 25 | 4 | 5 | 194 |
-| last180d | 2026-05-12 | 100 | 561 | 27 | 9 | 7 | 710 |
-| 360d | 2025-11-13 | 100 | 655 | 27 | 15 | 9 | 811 |
-| last720d | 2024-11-18 | 100 | 686 | 27 | 47 | 11 | 1445 |
+| 30d | 2026-10-10 | 9 | 42 | 20 | 2 | 2 | 34 |
+| last60d | 2026-09-10 | 60 | 115 | 23 | 4 | 4 | 105 |
+| 90d | 2026-08-11 | 100 | 175 | 25 | 4 | 5 | 168 |
+| last180d | 2026-05-13 | 100 | 549 | 27 | 9 | 7 | 657 |
+| 360d | 2025-11-14 | 100 | 655 | 27 | 15 | 9 | 811 |
+| last720d | 2024-11-19 | 100 | 686 | 27 | 47 | 11 | 1445 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:38:24Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:11:09Z._
