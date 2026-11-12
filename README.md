@@ -14,11 +14,11 @@ x install circleci-cli
 
 ## Code insight
 
-Total: **91,670** lines of code across **591** files in the top 5 languages.
+Total: **91,948** lines of code across **594** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 88,836 | 22,592 | 15,147 | 501 |
+| Go | 89,114 | 22,679 | 15,184 | 504 |
 | Css | 1,008 | 162 | 197 | 1 |
 | Yaml | 678 | 253 | 56 | 19 |
 | Html | 572 | 0 | 31 | 14 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.15.0` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 11
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 934 · **Merged PRs**: 1305 · **Open PRs**: 25 · **Closed issues**: 348 · **Open issues**: 19 · **Commits**: 1454
+- **Releases**: 934 · **Merged PRs**: 1306 · **Open PRs**: 25 · **Closed issues**: 348 · **Open issues**: 19 · **Commits**: 1456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 10 | 46 | 18 | 2 | 2 | 38 |
-| last60d | 2026-09-12 | 55 | 118 | 21 | 4 | 4 | 109 |
-| 90d | 2026-08-13 | 100 | 171 | 22 | 4 | 5 | 172 |
-| last180d | 2026-05-15 | 100 | 551 | 25 | 9 | 7 | 661 |
-| 360d | 2025-11-16 | 100 | 659 | 25 | 15 | 9 | 815 |
-| last720d | 2024-11-21 | 100 | 690 | 25 | 47 | 11 | 1453 |
+| 30d | 2026-10-13 | 10 | 45 | 18 | 2 | 2 | 39 |
+| last60d | 2026-09-13 | 55 | 119 | 21 | 4 | 4 | 110 |
+| 90d | 2026-08-14 | 100 | 168 | 22 | 4 | 5 | 173 |
+| last180d | 2026-05-16 | 100 | 552 | 25 | 9 | 7 | 662 |
+| 360d | 2025-11-17 | 100 | 660 | 25 | 15 | 9 | 816 |
+| last720d | 2024-11-22 | 100 | 691 | 25 | 47 | 11 | 1455 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:57:09Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:57:56Z._
