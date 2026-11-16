@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 9 | 37 | 18 | 2 | 2 | 27 |
-| last60d | 2026-09-16 | 44 | 105 | 25 | 3 | 4 | 97 |
-| 90d | 2026-08-17 | 100 | 169 | 27 | 4 | 5 | 162 |
-| last180d | 2026-05-19 | 100 | 548 | 30 | 9 | 7 | 623 |
-| 360d | 2025-11-20 | 100 | 663 | 30 | 15 | 9 | 820 |
-| last720d | 2024-11-25 | 100 | 695 | 30 | 47 | 11 | 1463 |
+| 30d | 2026-10-17 | 8 | 37 | 18 | 2 | 2 | 27 |
+| last60d | 2026-09-17 | 40 | 103 | 25 | 3 | 4 | 97 |
+| 90d | 2026-08-18 | 100 | 164 | 27 | 4 | 5 | 162 |
+| last180d | 2026-05-20 | 100 | 540 | 30 | 9 | 7 | 623 |
+| 360d | 2025-11-21 | 100 | 663 | 30 | 15 | 9 | 820 |
+| last720d | 2024-11-26 | 100 | 695 | 30 | 47 | 11 | 1463 |
 
 ## Release assets
 
@@ -83,7 +83,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/circleci-cli). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/circleci-cli). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:22:04Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:22:41Z._
