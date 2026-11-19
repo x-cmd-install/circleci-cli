@@ -1,10 +1,17 @@
+- repo: homebrew
+  srcname: circleci
+  visiblename: circleci
+  version: 1.17.0
+  origversion: null
+  status: newest
+  summary: Official command-line tool for CircleCI
 - repo: aur
   srcname: circleci-cli-bin
   binname: circleci-cli-bin
   visiblename: circleci-cli-bin
   version: 1.15.0
   origversion: 1.15.0-1
-  status: newest
+  status: outdated
   summary: CircleCI's new command-line application.
   maintainers:
     - igemnace@aur
@@ -15,15 +22,8 @@
   visiblename: CircleCI CLI
   version: 1.15.0
   origversion: null
-  status: newest
+  status: outdated
   summary: CircleCI command line tool
-- repo: homebrew
-  srcname: circleci
-  visiblename: circleci
-  version: 1.15.0
-  origversion: null
-  status: newest
-  summary: Official command-line tool for CircleCI
 - repo: homebrew
   srcname: circleci
   visiblename: circleci
@@ -101,7 +101,7 @@
   subrepo: main
   binname: circleci-cli
   visiblename: circleci-cli
-  version: 1.15.0
+  version: 1.17.0
   origversion: null
   status: newest
   licenses:
