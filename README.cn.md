@@ -14,15 +14,15 @@ x install circleci-cli
 
 ## 代码洞察
 
-合计: **95,859** 行代码（覆盖前 5 种语言、共 **611** 个文件）。
+合计: **95,974** 行代码（覆盖前 5 种语言、共 **613** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 93,018 | 23,368 | 15,697 | 519 |
+| Go | 93,134 | 23,529 | 15,705 | 523 |
 | Css | 1,008 | 162 | 197 | 1 |
-| Yaml | 678 | 253 | 56 | 19 |
+| Yaml | 684 | 253 | 56 | 19 |
 | Html | 572 | 0 | 31 | 14 |
-| Json | 293 | 0 | 1 | 58 |
+| Json | 286 | 0 | 1 | 56 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,52 +42,52 @@ x install circleci-cli
 
 ## 发布
 
-- **最新版本**: `v1.17.0` (2026-11-18)
-- **最近提交**: 2026-11-18
+- **最新版本**: `v1.18.0` (2026-11-19)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 462 · **Fork**: 262 · **开放 issue**: 371 · **贡献者**: 49
+- **Star**: 462 · **Fork**: 262 · **开放 issue**: 371 · **贡献者**: 51
 
 ## 累计统计
 
-- **发布数**: 936 · **已合并 PR**: 1325 · **开放 PR**: 32 · **已关闭 issue**: 349 · **开放 issue**: 22 · **提交数**: 1494
+- **发布数**: 937 · **已合并 PR**: 1330 · **开放 PR**: 31 · **已关闭 issue**: 349 · **开放 issue**: 22 · **提交数**: 1504
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 10 | 46 | 19 | 3 | 4 | 42 |
-| last60d | 2026-09-20 | 39 | 115 | 27 | 4 | 7 | 112 |
-| 90d | 2026-08-21 | 88 | 172 | 29 | 5 | 8 | 177 |
-| last180d | 2026-05-23 | 100 | 547 | 32 | 10 | 10 | 638 |
-| 360d | 2025-11-24 | 100 | 678 | 32 | 16 | 12 | 835 |
-| last720d | 2024-11-29 | 100 | 710 | 32 | 48 | 14 | 1493 |
+| 30d | 2026-10-21 | 9 | 47 | 17 | 3 | 4 | 47 |
+| last60d | 2026-09-21 | 40 | 119 | 26 | 4 | 7 | 117 |
+| 90d | 2026-08-22 | 89 | 177 | 28 | 5 | 8 | 182 |
+| last180d | 2026-05-24 | 100 | 552 | 31 | 10 | 10 | 643 |
+| 360d | 2025-11-25 | 100 | 683 | 31 | 16 | 12 | 840 |
+| last720d | 2024-11-30 | 100 | 715 | 31 | 48 | 14 | 1503 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [circleci-cli_1.17.0_checksums.txt](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci-cli_1.17.0_checksums.txt) | 1022 B | `other` |
-| [circleci-cli_1.17.0_darwin_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci-cli_1.17.0_darwin_amd64.tar.gz) | 16.0 MiB | `native/darwin/x64` |
-| [circleci-cli_1.17.0_darwin_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci-cli_1.17.0_darwin_arm64.tar.gz) | 14.5 MiB | `native/darwin/arm64` |
-| [circleci-cli_1.17.0_linux_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci-cli_1.17.0_linux_amd64.tar.gz) | 15.3 MiB | `native/linux/x64` |
-| [circleci-cli_1.17.0_linux_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci-cli_1.17.0_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
-| [circleci-cli_1.17.0_windows_amd64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci-cli_1.17.0_windows_amd64.zip) | 15.6 MiB | `native/win/x64` |
-| [circleci-cli_1.17.0_windows_arm64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci-cli_1.17.0_windows_arm64.zip) | 13.9 MiB | `native/win/arm64` |
-| [circleci_1.17.0_linux_amd64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci_1.17.0_linux_amd64.deb) | 15.3 MiB | `native/linux/x64` |
-| [circleci_1.17.0_linux_amd64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci_1.17.0_linux_amd64.rpm) | 15.3 MiB | `native/linux/x64` |
-| [circleci_1.17.0_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci_1.17.0_linux_arm64.deb) | 13.8 MiB | `native/linux/arm64` |
-| [circleci_1.17.0_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.17.0/circleci_1.17.0_linux_arm64.rpm) | 13.8 MiB | `native/linux/arm64` |
+| [circleci-cli_1.18.0_checksums.txt](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci-cli_1.18.0_checksums.txt) | 1022 B | `other` |
+| [circleci-cli_1.18.0_darwin_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci-cli_1.18.0_darwin_amd64.tar.gz) | 16.0 MiB | `native/darwin/x64` |
+| [circleci-cli_1.18.0_darwin_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci-cli_1.18.0_darwin_arm64.tar.gz) | 14.5 MiB | `native/darwin/arm64` |
+| [circleci-cli_1.18.0_linux_amd64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci-cli_1.18.0_linux_amd64.tar.gz) | 15.3 MiB | `native/linux/x64` |
+| [circleci-cli_1.18.0_linux_arm64.tar.gz](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci-cli_1.18.0_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
+| [circleci-cli_1.18.0_windows_amd64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci-cli_1.18.0_windows_amd64.zip) | 15.6 MiB | `native/win/x64` |
+| [circleci-cli_1.18.0_windows_arm64.zip](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci-cli_1.18.0_windows_arm64.zip) | 13.9 MiB | `native/win/arm64` |
+| [circleci_1.18.0_linux_amd64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci_1.18.0_linux_amd64.deb) | 15.3 MiB | `native/linux/x64` |
+| [circleci_1.18.0_linux_amd64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci_1.18.0_linux_amd64.rpm) | 15.3 MiB | `native/linux/x64` |
+| [circleci_1.18.0_linux_arm64.deb](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci_1.18.0_linux_arm64.deb) | 13.8 MiB | `native/linux/arm64` |
+| [circleci_1.18.0_linux_arm64.rpm](https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.18.0/circleci_1.18.0_linux_arm64.rpm) | 13.8 MiB | `native/linux/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/circleci-cli) 上共有 **12** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/circleci-cli) 上共有 **12** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `1.17.0` | ✅ latest |
+| Homebrew | `1.18.0` | ✅ latest |
 | Nix unstable | `1.14.0` | ⚠️ outdated |
 | Void | `1.0.47876` | ⚠️ outdated |
 
@@ -100,4 +100,4 @@ circleci-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T07:56:26Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T09:59:08Z._
