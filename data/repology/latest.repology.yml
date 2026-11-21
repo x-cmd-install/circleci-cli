@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: circleci
+  visiblename: circleci
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Official command-line tool for CircleCI
 - repo: aur
   srcname: circleci-cli-bin
   binname: circleci-cli-bin
@@ -23,13 +30,6 @@
   version: 1.18.0
   origversion: null
   status: newest
-  summary: Official command-line tool for CircleCI
-- repo: homebrew
-  srcname: circleci
-  visiblename: circleci
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Official command-line tool for CircleCI
 - repo: nix_stable_24_05
   srcname: circleci-cli
@@ -89,9 +89,9 @@
 - repo: nix_unstable
   srcname: circleci-cli
   visiblename: circleci-cli
-  version: 1.14.0
+  version: 1.18.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Command to enable you to reproduce the CircleCI environment locally and run jobs as if they were running on the hosted CircleCI application.
   maintainers:
     - stig@circleci.com
