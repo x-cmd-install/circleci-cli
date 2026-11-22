@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 7 | 47 | 24 | 3 | 4 | 0 |
-| last60d | 2026-09-22 | 36 | 119 | 35 | 4 | 7 | 0 |
-| 90d | 2026-08-23 | 89 | 178 | 37 | 5 | 8 | 0 |
-| last180d | 2026-05-25 | 100 | 549 | 40 | 10 | 10 | 0 |
-| 360d | 2025-11-26 | 100 | 683 | 40 | 16 | 12 | 0 |
-| last720d | 2024-12-01 | 100 | 716 | 40 | 48 | 14 | 1507 |
+| 30d | 2026-10-23 | 7 | 46 | 24 | 3 | 4 | 50 |
+| last60d | 2026-09-23 | 35 | 107 | 34 | 4 | 7 | 120 |
+| 90d | 2026-08-24 | 89 | 178 | 37 | 5 | 8 | 185 |
+| last180d | 2026-05-26 | 100 | 547 | 40 | 10 | 10 | 646 |
+| 360d | 2025-11-27 | 100 | 683 | 40 | 16 | 12 | 843 |
+| last720d | 2024-12-02 | 100 | 716 | 40 | 48 | 14 | 1507 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:23:29Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:15:03Z._
