@@ -14,11 +14,11 @@ x install circleci-cli
 
 ## Code insight
 
-Total: **96,572** lines of code across **617** files in the top 5 languages.
+Total: **96,674** lines of code across **617** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 93,732 | 23,691 | 15,817 | 527 |
+| Go | 93,834 | 23,698 | 15,826 | 527 |
 | Css | 1,008 | 162 | 197 | 1 |
 | Yaml | 684 | 253 | 56 | 19 |
 | Html | 572 | 0 | 31 | 14 |
@@ -26,7 +26,7 @@ Total: **96,572** lines of code across **617** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.0` (2026-11-19)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 11
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 937 · **Merged PRs**: 1331 · **Open PRs**: 40 · **Closed issues**: 349 · **Open issues**: 22 · **Commits**: 1508
+- **Releases**: 937 · **Merged PRs**: 1332 · **Open PRs**: 39 · **Closed issues**: 349 · **Open issues**: 22 · **Commits**: 1510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 7 | 46 | 24 | 3 | 4 | 50 |
-| last60d | 2026-09-23 | 35 | 107 | 34 | 4 | 7 | 120 |
-| 90d | 2026-08-24 | 89 | 178 | 37 | 5 | 8 | 185 |
-| last180d | 2026-05-26 | 100 | 547 | 40 | 10 | 10 | 646 |
-| 360d | 2025-11-27 | 100 | 683 | 40 | 16 | 12 | 843 |
-| last720d | 2024-12-02 | 100 | 716 | 40 | 48 | 14 | 1507 |
+| 30d | 2026-10-24 | 7 | 47 | 23 | 3 | 4 | 42 |
+| last60d | 2026-09-24 | 32 | 108 | 33 | 4 | 7 | 106 |
+| 90d | 2026-08-25 | 89 | 177 | 36 | 5 | 8 | 178 |
+| last180d | 2026-05-27 | 100 | 547 | 39 | 10 | 10 | 625 |
+| 360d | 2025-11-28 | 100 | 684 | 39 | 16 | 12 | 844 |
+| last720d | 2024-12-03 | 100 | 717 | 39 | 48 | 14 | 1509 |
 
 ## Release assets
 
@@ -83,11 +83,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/circleci-cli). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/circleci-cli). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.18.0` | ✅ latest |
 | Nix unstable | `1.18.0` | ✅ latest |
 | Void | `1.0.47876` | ⚠️ outdated |
 
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:15:03Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:40:45Z._
