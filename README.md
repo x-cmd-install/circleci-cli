@@ -14,13 +14,13 @@ x install circleci-cli
 
 ## Code insight
 
-Total: **96,674** lines of code across **617** files in the top 5 languages.
+Total: **96,792** lines of code across **617** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 93,834 | 23,698 | 15,826 | 527 |
+| Go | 93,951 | 23,692 | 15,830 | 527 |
 | Css | 1,008 | 162 | 197 | 1 |
-| Yaml | 684 | 253 | 56 | 19 |
+| Yaml | 685 | 253 | 56 | 19 |
 | Html | 572 | 0 | 31 | 14 |
 | Json | 286 | 0 | 1 | 56 |
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 462 · **Forks**: 263 · **Open issues**: 371 · **Contributors**: 51
+- **Stars**: 462 · **Forks**: 264 · **Open issues**: 371 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 937 · **Merged PRs**: 1332 · **Open PRs**: 39 · **Closed issues**: 349 · **Open issues**: 22 · **Commits**: 1510
+- **Releases**: 937 · **Merged PRs**: 1336 · **Open PRs**: 36 · **Closed issues**: 349 · **Open issues**: 22 · **Commits**: 1514
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 7 | 47 | 23 | 3 | 4 | 42 |
-| last60d | 2026-09-24 | 32 | 108 | 33 | 4 | 7 | 106 |
-| 90d | 2026-08-25 | 89 | 177 | 36 | 5 | 8 | 178 |
-| last180d | 2026-05-27 | 100 | 547 | 39 | 10 | 10 | 625 |
-| 360d | 2025-11-28 | 100 | 684 | 39 | 16 | 12 | 844 |
-| last720d | 2024-12-03 | 100 | 717 | 39 | 48 | 14 | 1509 |
+| 30d | 2026-10-25 | 7 | 51 | 20 | 3 | 4 | 44 |
+| last60d | 2026-09-25 | 31 | 111 | 30 | 4 | 7 | 108 |
+| 90d | 2026-08-26 | 89 | 178 | 33 | 5 | 8 | 180 |
+| last180d | 2026-05-28 | 100 | 549 | 36 | 10 | 10 | 627 |
+| 360d | 2025-11-29 | 100 | 688 | 36 | 16 | 12 | 846 |
+| last720d | 2024-12-04 | 100 | 721 | 36 | 47 | 14 | 1513 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:40:45Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:23:40Z._
