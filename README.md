@@ -14,15 +14,15 @@ x install circleci-cli
 
 ## Code insight
 
-Total: **98,910** lines of code across **624** files in the top 5 languages.
+Total: **99,964** lines of code across **631** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 96,068 | 23,987 | 16,075 | 533 |
+| Go | 97,119 | 24,287 | 16,204 | 540 |
 | Css | 1,008 | 162 | 197 | 1 |
 | Yaml | 685 | 253 | 56 | 19 |
 | Html | 572 | 0 | 31 | 14 |
-| Json | 287 | 0 | 1 | 57 |
+| Json | 290 | 0 | 1 | 57 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.0` (2026-11-19)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 462 · **Forks**: 264 · **Open issues**: 371 · **Contributors**: 52
+- **Stars**: 462 · **Forks**: 264 · **Open issues**: 371 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 937 · **Merged PRs**: 1342 · **Open PRs**: 32 · **Closed issues**: 349 · **Open issues**: 22 · **Commits**: 1521
+- **Releases**: 937 · **Merged PRs**: 1346 · **Open PRs**: 30 · **Closed issues**: 349 · **Open issues**: 22 · **Commits**: 1527
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 7 | 54 | 16 | 3 | 4 | 48 |
-| last60d | 2026-09-26 | 29 | 117 | 26 | 4 | 7 | 112 |
-| 90d | 2026-08-27 | 88 | 182 | 29 | 5 | 8 | 184 |
-| last180d | 2026-05-29 | 100 | 553 | 32 | 10 | 10 | 631 |
-| 360d | 2025-11-30 | 100 | 694 | 32 | 16 | 12 | 850 |
-| last720d | 2024-12-05 | 100 | 727 | 32 | 47 | 14 | 1520 |
+| 30d | 2026-10-27 | 7 | 56 | 14 | 2 | 4 | 50 |
+| last60d | 2026-09-27 | 29 | 121 | 24 | 4 | 7 | 115 |
+| 90d | 2026-08-28 | 87 | 184 | 27 | 5 | 8 | 187 |
+| last180d | 2026-05-30 | 100 | 557 | 30 | 10 | 10 | 634 |
+| 360d | 2025-12-01 | 100 | 698 | 30 | 16 | 12 | 853 |
+| last720d | 2024-12-06 | 100 | 731 | 30 | 47 | 14 | 1526 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for circleci-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:21:28Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:05:35Z._
